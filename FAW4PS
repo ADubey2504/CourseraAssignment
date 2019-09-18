@@ -1,0 +1,17 @@
+A description of the problem and a discussion of the background. (15 marks)
+
+Problem Statement : XYZ Retail chain supplier aggregator wants to enter India by tapping flousirshing food delivery business.
+Their business model is to source and supply ingredients (fresh exotic fruits/ vegetables,dairy etc) to restraunts directly.They want to 
+set up hub and spoke network of suppliers in different region of city to cater the need of local restraunts.They want to do area wise
+analysis to understand the which type of resturants dominates in the area so that they could stock the supplies accordingly.Each warehouse
+would be able to serve the restraunts in 5 km radius.
+
+They want to start pilot in New Delhi which is national capital of India. Also they would like to leverage the Metro connectivity in New
+Delhi as local Metro Rail Corporation is auctioning shops in metro station premises. XYZ aims to use these shops as warehouse to supply
+locally.
+
+Now we need to design model to help XYZ retail chain supplier to do regional analysis to help them 
+1. identify resturant profile of an area for each metro station as centre
+2. identify which type restraunt they should cater in given area
+
+
